@@ -1,2 +1,2 @@
-Git on tasuta ja avatud lähtekoodiga hajus versioonihaldussüsteem, mis on loodud nii väikeste kui suurte projektide haldamiseks.
 mina saan seda kasutada kodus ja koolis. saan kasutada et täita kodused ülesanded
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.
